@@ -32,9 +32,9 @@ touch whatever/whatever_jun.md
 <details>
   <summary>Ответ/summary>
 
-  ```
+  <pre>
   Whatever is worth doing is worth doing well.
-  ```
+  </pre>
 </details>
 
 ```

@@ -30,7 +30,7 @@ touch whatever/whatever_jun.md
 1. Продолжите фразу "Whatever is..."
 
 <details>
-  <summary>Ответ/summary>
+  <summary>Ответ</summary>
 
   <pre>
   Whatever is worth doing is worth doing well.

@@ -7,6 +7,7 @@
 ## Навигация
 
 ### [Kubernetes (junior)](/k8s/k8s_jun.md)
+### [Python (junior)](/py3/py3_jun.md)
 
 Дальше будет больше, если не заброшу
 
